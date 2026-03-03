@@ -2,7 +2,13 @@
 Industrial AI – Anomaly Detection Systems
 
 ## Overview
-This repository contains industrial AI projects focused on anomaly detection in manufacturing environments, including image-based defect detection, time-series equipment monitoring, and industrial object detection.
+**Project Overview**
+
+This project builds upon a manufacturing anomaly detection project conducted during an Industrial AI training program.
+
+The methodology learned from that project was further developed and extended, and applied to a cybersecurity intrusion detection dataset.
+
+The core objective was to validate whether manufacturing AI inspection methodology can be effectively adapted to security log analysis. The experimental results demonstrated high detection performance, achieving 99.99% accuracy.
 
 The projects were developed based on anomaly detection methodologies from Brainworks, an AI startup recognized with a Grand Prize for its industrial AI technologies.  
 The training program provided exposure to production-grade industrial AI workflows and real-world manufacturing anomaly detection architectures.
