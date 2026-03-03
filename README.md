@@ -4,14 +4,11 @@ Industrial AI – Anomaly Detection Systems
 ## Overview
 **Project Overview**
 
-This project builds upon a manufacturing anomaly detection project conducted during an Industrial AI training program.
-
+This project builds upon a manufacturing anomaly detection project conducted during an Industrial Al training program.
 The methodology learned from that project was further developed and extended, and applied to a cybersecurity intrusion detection dataset.
-
-The core objective was to validate whether manufacturing AI inspection methodology can be effectively adapted to security log analysis. The experimental results demonstrated high detection performance, achieving 99.99% accuracy.
-
-The projects were developed based on anomaly detection methodologies from Brainworks, an AI startup recognized with a Grand Prize for its industrial AI technologies.  
-The training program provided exposure to production-grade industrial AI workflows and real-world manufacturing anomaly detection architectures.
+The core objective was to validate whether manufacturing Al inspection methodology can be effectively adapted to security log analysis. The experimental results demonstrated high detection performance, achieving 99.99% accuracy.
+The projects were developed based on anomaly detection methodologies from Brainworks, an Al startup recognized with a Grand Prize for its industrial Al technologies.
+The training program provided exposure to production-grade industrial Al workflows and real-world manufacturing anomaly detection architectures.
 
 ## 1. PCB Defect Detection
 ### CNN-Based Spatial Anomaly Detection for PCB Manufacturing
